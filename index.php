@@ -10,5 +10,9 @@
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis dicta sed, blanditiis sunt dolorum necessitatibus modi velit animi, possimus quas ab consequuntur quod quaerat iure, exercitationem nisi asperiores molestiae. Consequatur.
     </p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
